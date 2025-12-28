@@ -40,6 +40,46 @@
             "Website": "N/A",
             "Response": "True"
         },
+{
+            "Title": "Stranger things",
+            "Year": "2025",
+            "Rated": "R",
+            "Released": "14 Oct 2025",
+            "Runtime": "142 min",
+            "Genre": "Drama,Scifi",
+            "Director": "Duff Brothers",
+            "Writer": "Stephen King, Frank Darabont",
+            "Actors": "Tim Robbins, Morgan Freeman, Bob Gunton,steve",
+            "Plot": "Two imprisoned men bond over a number of years, finding solace and eventual redemption through acts of common decency.",
+            "Language": "English",
+            "Country": "United States",
+            "Awards": "Nominated for 7 Oscars. 21 wins & 43 nominations total",
+            "Poster": "https://m.media-amazon.com/images/M/MV5BOWU2NjY5NWQtMjdkZi00ODJlLThkZTAtMzFlYmJmMGE2NjZkXkEyXkFqcGc@._V1_.jpg",
+            "Ratings": [
+                {
+                    "Source": "Internet Movie Database",
+                    "Value": "9.3/10"
+                },
+                {
+                    "Source": "Rotten Tomatoes",
+                    "Value": "91%"
+                },
+                {
+                    "Source": "Metacritic",
+                    "Value": "81/100"
+                }
+            ],
+            "Metascore": "81",
+            "imdbRating": "9.3",
+            "imdbVotes": "2,559,562",
+            "imdbID": "tt0111161",
+            "Type": "movie",
+            "DVD": "21 Dec 1999",
+            "BoxOffice": "$28,767,189",
+            "Production": "N/A",
+            "Website": "N/A",
+            "Response": "True"
+        },
         {
             "Title": "The Godfather",
             "Year": "1972",
