@@ -761,42 +761,6 @@
             "Response": "True"
         },
         {
-            "Title": "Seven Samurai",
-            "Year": "1954",
-            "Rated": "Not Rated",
-            "Released": "19 Nov 1956",
-            "Runtime": "207 min",
-            "Genre": "Action, Drama",
-            "Director": "Akira Kurosawa",
-            "Writer": "Akira Kurosawa, Shinobu Hashimoto, Hideo Oguni",
-            "Actors": "Toshirô Mifune, Takashi Shimura, Keiko Tsushima",
-            "Plot": "A poor village under attack by bandits recruits seven unemployed samurai to help them defend themselves.",
-            "Language": "Japanese",
-            "Country": "Japan",
-            "Awards": "Nominated for 2 Oscars. 5 wins & 8 nominations total",
-            "Poster": "https://m.media-amazon.com/images/M/MV5BOWE4ZDdhNmMtNzE5ZC00NzExLTlhNGMtY2ZhYjYzODEzODA1XkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_SX300.jpg",
-            "Ratings": [
-                {
-                    "Source": "Internet Movie Database",
-                    "Value": "8.6/10"
-                },
-                {
-                    "Source": "Metacritic",
-                    "Value": "98/100"
-                }
-            ],
-            "Metascore": "98",
-            "imdbRating": "8.6",
-            "imdbVotes": "337,182",
-            "imdbID": "tt0047478",
-            "Type": "movie",
-            "DVD": "05 Sep 2006",
-            "BoxOffice": "$318,649",
-            "Production": "N/A",
-            "Website": "N/A",
-            "Response": "True"
-        },
-        {
             "Title": "It's a Wonderful Life",
             "Year": "1946",
             "Rated": "PG",
@@ -1032,46 +996,6 @@
             "Type": "movie",
             "DVD": "13 Jun 2000",
             "BoxOffice": "$136,801,374",
-            "Production": "N/A",
-            "Website": "N/A",
-            "Response": "True"
-        },
-        {
-            "Title": "Star Wars",
-            "Year": "1977",
-            "Rated": "PG",
-            "Released": "25 May 1977",
-            "Runtime": "121 min",
-            "Genre": "Action, Adventure, Fantasy",
-            "Director": "George Lucas",
-            "Writer": "George Lucas",
-            "Actors": "Mark Hamill, Harrison Ford, Carrie Fisher",
-            "Plot": "Luke Skywalker joins forces with a Jedi Knight, a cocky pilot, a Wookiee and two droids to save the galaxy from the Empire's world-destroying battle station, while also attempting to rescue Princess Leia from the mysterious Darth Vad",
-            "Language": "English",
-            "Country": "United States",
-            "Awards": "Won 7 Oscars. 63 wins & 29 nominations total",
-            "Poster": "https://m.media-amazon.com/images/M/MV5BNzVlY2MwMjktM2E4OS00Y2Y3LWE3ZjctYzhkZGM3YzA1ZWM2XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SX300.jpg",
-            "Ratings": [
-                {
-                    "Source": "Internet Movie Database",
-                    "Value": "8.6/10"
-                },
-                {
-                    "Source": "Rotten Tomatoes",
-                    "Value": "92%"
-                },
-                {
-                    "Source": "Metacritic",
-                    "Value": "90/100"
-                }
-            ],
-            "Metascore": "90",
-            "imdbRating": "8.6",
-            "imdbVotes": "1,312,386",
-            "imdbID": "tt0076759",
-            "Type": "movie",
-            "DVD": "06 Dec 2005",
-            "BoxOffice": "$460,998,507",
             "Production": "N/A",
             "Website": "N/A",
             "Response": "True"
@@ -1796,46 +1720,7 @@
             "Website": "N/A",
             "Response": "True"
         },
-        {
-            "Title": "Once Upon a Time in the West",
-            "Year": "1968",
-            "Rated": "PG-13",
-            "Released": "04 Jul 1969",
-            "Runtime": "165 min",
-            "Genre": "Western",
-            "Director": "Sergio Leone",
-            "Writer": "Sergio Donati, Sergio Leone, Dario Argento",
-            "Actors": "Henry Fonda, Charles Bronson, Claudia Cardinale",
-            "Plot": "A mysterious stranger with a harmonica joins forces with a notorious desperado to protect a beautiful widow from a ruthless assassin working for the railroad.",
-            "Language": "Italian, English, Spanish",
-            "Country": "Italy, United States",
-            "Awards": "4 wins & 5 nominations",
-            "Poster": "https://m.media-amazon.com/images/M/MV5BZGI5MjBmYzYtMzJhZi00NGI1LTk3MzItYjBjMzcxM2U3MDdiXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SX300.jpg",
-            "Ratings": [
-                {
-                    "Source": "Internet Movie Database",
-                    "Value": "8.5/10"
-                },
-                {
-                    "Source": "Rotten Tomatoes",
-                    "Value": "95%"
-                },
-                {
-                    "Source": "Metacritic",
-                    "Value": "80/100"
-                }
-            ],
-            "Metascore": "80",
-            "imdbRating": "8.5",
-            "imdbVotes": "321,833",
-            "imdbID": "tt0064116",
-            "Type": "movie",
-            "DVD": "18 Nov 2003",
-            "BoxOffice": "$5,321,508",
-            "Production": "N/A",
-            "Website": "N/A",
-            "Response": "True"
-        },
+       
         {
             "Title": "Hara-Kiri",
             "Year": "1962",
@@ -1912,46 +1797,7 @@
             "Website": "N/A",
             "Response": "True"
         },
-        {
-            "Title": "Alien",
-            "Year": "1979",
-            "Rated": "R",
-            "Released": "22 Jun 1979",
-            "Runtime": "117 min",
-            "Genre": "Horror, Sci-Fi",
-            "Director": "Ridley Scott",
-            "Writer": "Dan O'Bannon, Ronald Shusett",
-            "Actors": "Sigourney Weaver, Tom Skerritt, John Hurt",
-            "Plot": "The crew of a commercial spacecraft encounter a deadly lifeform after investigating an unknown transmission.",
-            "Language": "English",
-            "Country": "United Kingdom, United States",
-            "Awards": "Won 1 Oscar. 18 wins & 22 nominations total",
-            "Poster": "https://m.media-amazon.com/images/M/MV5BMmQ2MmU3NzktZjAxOC00ZDZhLTk4YzEtMDMyMzcxY2IwMDAyXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SX300.jpg",
-            "Ratings": [
-                {
-                    "Source": "Internet Movie Database",
-                    "Value": "8.5/10"
-                },
-                {
-                    "Source": "Rotten Tomatoes",
-                    "Value": "98%"
-                },
-                {
-                    "Source": "Metacritic",
-                    "Value": "89/100"
-                }
-            ],
-            "Metascore": "89",
-            "imdbRating": "8.5",
-            "imdbVotes": "848,173",
-            "imdbID": "tt0078748",
-            "Type": "movie",
-            "DVD": "01 Jun 1999",
-            "BoxOffice": "$81,900,459",
-            "Production": "N/A",
-            "Website": "N/A",
-            "Response": "True"
-        },
+       
         {
             "Title": "Rear Window",
             "Year": "1954",
@@ -4316,46 +4162,7 @@
             "Website": "N/A",
             "Response": "True"
         },
-        {
-            "Title": "Up",
-            "Year": "2009",
-            "Rated": "PG",
-            "Released": "29 May 2009",
-            "Runtime": "96 min",
-            "Genre": "Animation, Adventure, Comedy",
-            "Director": "Pete Docter, Bob Peterson",
-            "Writer": "Pete Docter, Bob Peterson, Tom McCarthy",
-            "Actors": "Edward Asner, Jordan Nagai, John Ratzenberger",
-            "Plot": "78-year-old Carl Fredricksen travels to Paradise Falls in his house equipped with balloons, inadvertently taking a young stowaway.",
-            "Language": "English",
-            "Country": "United States",
-            "Awards": "Won 2 Oscars. 79 wins & 87 nominations total",
-            "Poster": "https://m.media-amazon.com/images/M/MV5BMTk3NDE2NzI4NF5BMl5BanBnXkFtZTgwNzE1MzEyMTE@._V1_SX300.jpg",
-            "Ratings": [
-                {
-                    "Source": "Internet Movie Database",
-                    "Value": "8.2/10"
-                },
-                {
-                    "Source": "Rotten Tomatoes",
-                    "Value": "98%"
-                },
-                {
-                    "Source": "Metacritic",
-                    "Value": "88/100"
-                }
-            ],
-            "Metascore": "88",
-            "imdbRating": "8.2",
-            "imdbVotes": "1,005,054",
-            "imdbID": "tt1049413",
-            "Type": "movie",
-            "DVD": "10 Nov 2009",
-            "BoxOffice": "$293,004,164",
-            "Production": "N/A",
-            "Website": "N/A",
-            "Response": "True"
-        },
+       
         {
             "Title": "L.A. Confidential",
             "Year": "1997",
@@ -4476,46 +4283,7 @@
             "Website": "N/A",
             "Response": "True"
         },
-        {
-            "Title": "Ikiru",
-            "Year": "1952",
-            "Rated": "Not Rated",
-            "Released": "25 Mar 1956",
-            "Runtime": "143 min",
-            "Genre": "Drama",
-            "Director": "Akira Kurosawa",
-            "Writer": "Akira Kurosawa, Shinobu Hashimoto, Hideo Oguni",
-            "Actors": "Takashi Shimura, Nobuo Kaneko, Shin'ichi Himori",
-            "Plot": "A bureaucrat tries to find meaning in his life after he discovers he has terminal cancer.",
-            "Language": "Japanese",
-            "Country": "Japan",
-            "Awards": "Nominated for 1 BAFTA Film Award5 wins & 2 nominations total",
-            "Poster": "https://m.media-amazon.com/images/M/MV5BZTdkN2E5OTYtN2FiMi00YWUwLWEzMGMtZTMzNjY0NjgzYzFiXkEyXkFqcGdeQXVyMTI3ODAyMzE2._V1_SX300.jpg",
-            "Ratings": [
-                {
-                    "Source": "Internet Movie Database",
-                    "Value": "8.3/10"
-                },
-                {
-                    "Source": "Rotten Tomatoes",
-                    "Value": "98%"
-                },
-                {
-                    "Source": "Metacritic",
-                    "Value": "91/100"
-                }
-            ],
-            "Metascore": "91",
-            "imdbRating": "8.3",
-            "imdbVotes": "76,069",
-            "imdbID": "tt0044741",
-            "Type": "movie",
-            "DVD": "06 Jan 2004",
-            "BoxOffice": "$60,239",
-            "Production": "N/A",
-            "Website": "N/A",
-            "Response": "True"
-        },
+        
         {
             "Title": "Snatch",
             "Year": "2000",
@@ -4908,46 +4676,7 @@
             "Website": "N/A",
             "Response": "True"
         },
-        {
-            "Title": "For a Few Dollars More",
-            "Year": "1965",
-            "Rated": "R",
-            "Released": "10 May 1967",
-            "Runtime": "132 min",
-            "Genre": "Western",
-            "Director": "Sergio Leone",
-            "Writer": "Sergio Leone, Fulvio Morsella, Luciano Vincenzoni",
-            "Actors": "Clint Eastwood, Lee Van Cleef, Gian Maria Volontè",
-            "Plot": "Two bounty hunters with the same intentions team up to track down an escaped Mexican outlaw.",
-            "Language": "Italian, English",
-            "Country": "Italy, Spain, West Germany",
-            "Awards": "2 nominations",
-            "Poster": "https://m.media-amazon.com/images/M/MV5BNWM1NmYyM2ItMTFhNy00NDU0LThlYWUtYjQyYTJmOTY0ZmM0XkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SX300.jpg",
-            "Ratings": [
-                {
-                    "Source": "Internet Movie Database",
-                    "Value": "8.3/10"
-                },
-                {
-                    "Source": "Rotten Tomatoes",
-                    "Value": "91%"
-                },
-                {
-                    "Source": "Metacritic",
-                    "Value": "74/100"
-                }
-            ],
-            "Metascore": "74",
-            "imdbRating": "8.3",
-            "imdbVotes": "249,702",
-            "imdbID": "tt0059578",
-            "Type": "movie",
-            "DVD": "01 Aug 2006",
-            "BoxOffice": "$15,000,000",
-            "Production": "N/A",
-            "Website": "N/A",
-            "Response": "True"
-        },
+        
         {
             "Title": "Dangal",
             "Year": "2016",
@@ -5460,46 +5189,7 @@
             "Website": "N/A",
             "Response": "True"
         },
-        {
-            "Title": "Ran",
-            "Year": "1985",
-            "Rated": "R",
-            "Released": "01 Jun 1985",
-            "Runtime": "162 min",
-            "Genre": "Action, Drama, War",
-            "Director": "Akira Kurosawa",
-            "Writer": "Akira Kurosawa, Hideo Oguni, Masato Ide",
-            "Actors": "Tatsuya Nakadai, Akira Terao, Jinpachi Nezu",
-            "Plot": "In Medieval Japan, an elderly warlord retires, handing over his empire to his three sons. However, he vastly underestimates how the new-found power will corrupt them and cause them to turn on each other...and him.",
-            "Language": "Japanese",
-            "Country": "Japan, France",
-            "Awards": "Won 1 Oscar. 30 wins & 23 nominations total",
-            "Poster": "https://m.media-amazon.com/images/M/MV5BNTEyNjg0MDM4OF5BMl5BanBnXkFtZTgwODI0NjUxODE@._V1_SX300.jpg",
-            "Ratings": [
-                {
-                    "Source": "Internet Movie Database",
-                    "Value": "8.2/10"
-                },
-                {
-                    "Source": "Rotten Tomatoes",
-                    "Value": "96%"
-                },
-                {
-                    "Source": "Metacritic",
-                    "Value": "96/100"
-                }
-            ],
-            "Metascore": "96",
-            "imdbRating": "8.2",
-            "imdbVotes": "122,419",
-            "imdbID": "tt0089881",
-            "Type": "movie",
-            "DVD": "22 Nov 2005",
-            "BoxOffice": "$4,135,750",
-            "Production": "N/A",
-            "Website": "N/A",
-            "Response": "True"
-        },
+       
         {
             "Title": "A Beautiful Mind",
             "Year": "2001",
@@ -6016,46 +5706,7 @@
             "Website": "N/A",
             "Response": "True"
         },
-        {
-            "Title": "Finding Nemo",
-            "Year": "2003",
-            "Rated": "G",
-            "Released": "30 May 2003",
-            "Runtime": "100 min",
-            "Genre": "Animation, Adventure, Comedy",
-            "Director": "Andrew Stanton, Lee Unkrich",
-            "Writer": "Andrew Stanton, Bob Peterson, David Reynolds",
-            "Actors": "Albert Brooks, Ellen DeGeneres, Alexander Gould",
-            "Plot": "After his son is captured in the Great Barrier Reef and taken to Sydney, a timid clownfish sets out on a journey to bring him home.",
-            "Language": "English",
-            "Country": "United States, Australia",
-            "Awards": "Won 1 Oscar. 48 wins & 63 nominations total",
-            "Poster": "https://m.media-amazon.com/images/M/MV5BZTAzNWZlNmUtZDEzYi00ZjA5LWIwYjEtZGM1NWE1MjE4YWRhXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SX300.jpg",
-            "Ratings": [
-                {
-                    "Source": "Internet Movie Database",
-                    "Value": "8.1/10"
-                },
-                {
-                    "Source": "Rotten Tomatoes",
-                    "Value": "99%"
-                },
-                {
-                    "Source": "Metacritic",
-                    "Value": "90/100"
-                }
-            ],
-            "Metascore": "90",
-            "imdbRating": "8.1",
-            "imdbVotes": "1,010,795",
-            "imdbID": "tt0266543",
-            "Type": "movie",
-            "DVD": "04 Nov 2003",
-            "BoxOffice": "$380,843,261",
-            "Production": "N/A",
-            "Website": "N/A",
-            "Response": "True"
-        },
+       
         {
             "Title": "Raging Bull",
             "Year": "1980",
@@ -6216,46 +5867,7 @@
             "Website": "N/A",
             "Response": "True"
         },
-        {
-            "Title": "Chinatown",
-            "Year": "1974",
-            "Rated": "R",
-            "Released": "20 Jun 1974",
-            "Runtime": "130 min",
-            "Genre": "Drama, Mystery, Thriller",
-            "Director": "Roman Polanski",
-            "Writer": "Robert Towne, Roman Polanski",
-            "Actors": "Jack Nicholson, Faye Dunaway, John Huston",
-            "Plot": "A private detective hired to expose an adulterer in 1930s Los Angeles finds himself caught up in a web of deceit, corruption, and murder.",
-            "Language": "English, Cantonese, Spanish",
-            "Country": "United States",
-            "Awards": "Won 1 Oscar. 21 wins & 24 nominations total",
-            "Poster": "https://m.media-amazon.com/images/M/MV5BOGMwYmY5ZmEtMzY1Yi00OWJiLTk1Y2MtMzI2MjBhYmZkNTQ0XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SX300.jpg",
-            "Ratings": [
-                {
-                    "Source": "Internet Movie Database",
-                    "Value": "8.2/10"
-                },
-                {
-                    "Source": "Rotten Tomatoes",
-                    "Value": "99%"
-                },
-                {
-                    "Source": "Metacritic",
-                    "Value": "92/100"
-                }
-            ],
-            "Metascore": "92",
-            "imdbRating": "8.2",
-            "imdbVotes": "317,709",
-            "imdbID": "tt0071315",
-            "Type": "movie",
-            "DVD": "23 Nov 1999",
-            "BoxOffice": "$29,200,000",
-            "Production": "N/A",
-            "Website": "N/A",
-            "Response": "True"
-        },
+        
         {
             "Title": "Inside Out",
             "Year": "2015",
@@ -7368,46 +6980,7 @@
             "Website": "N/A",
             "Response": "True"
         },
-        {
-            "Title": "Wild Strawberries",
-            "Year": "1957",
-            "Rated": "Not Rated",
-            "Released": "22 Jun 1959",
-            "Runtime": "91 min",
-            "Genre": "Drama, Romance",
-            "Director": "Ingmar Bergman",
-            "Writer": "Ingmar Bergman",
-            "Actors": "Victor Sjöström, Bibi Andersson, Ingrid Thulin",
-            "Plot": "After living a life marked by coldness, an aging professor is forced to confront the emptiness of his existence.",
-            "Language": "Swedish, Latin",
-            "Country": "Sweden",
-            "Awards": "Nominated for 1 Oscar. 18 wins & 4 nominations total",
-            "Poster": "https://m.media-amazon.com/images/M/MV5BYWQxYzdhMDMtNjAyZC00NzE0LWFjYmQtYjk0YzMyYjA5NzZkXkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_SX300.jpg",
-            "Ratings": [
-                {
-                    "Source": "Internet Movie Database",
-                    "Value": "8.2/10"
-                },
-                {
-                    "Source": "Rotten Tomatoes",
-                    "Value": "94%"
-                },
-                {
-                    "Source": "Metacritic",
-                    "Value": "88/100"
-                }
-            ],
-            "Metascore": "88",
-            "imdbRating": "8.2",
-            "imdbVotes": "105,087",
-            "imdbID": "tt0050986",
-            "Type": "movie",
-            "DVD": "12 Feb 2002",
-            "BoxOffice": "N/A",
-            "Production": "N/A",
-            "Website": "N/A",
-            "Response": "True"
-        },
+        
         {
             "Title": "In the Name of the Father",
             "Year": "1993",
@@ -7644,42 +7217,7 @@
             "Website": "N/A",
             "Response": "True"
         },
-        {
-            "Title": "Pather Panchali",
-            "Year": "1955",
-            "Rated": "Not Rated",
-            "Released": "26 Aug 1955",
-            "Runtime": "125 min",
-            "Genre": "Drama",
-            "Director": "Satyajit Ray",
-            "Writer": "Bibhutibhushan Bandyopadhyay, Satyajit Ray",
-            "Actors": "Kanu Bannerjee, Karuna Bannerjee, Subir Banerjee",
-            "Plot": "Impoverished priest Harihar Ray, dreaming of a better life for himself and his family, leaves his rural Bengal village in search of work.",
-            "Language": "Bengali",
-            "Country": "India",
-            "Awards": "Nominated for 1 BAFTA Film Award11 wins & 2 nominations total",
-            "Poster": "https://m.media-amazon.com/images/M/MV5BMmFkNDY5OTktNzY3Yy00OTFlLThhNjktOTRhMmZjZmIxYjAxXkEyXkFqcGdeQXVyNTgyNTA4MjM@._V1_SX300.jpg",
-            "Ratings": [
-                {
-                    "Source": "Internet Movie Database",
-                    "Value": "8.4/10"
-                },
-                {
-                    "Source": "Rotten Tomatoes",
-                    "Value": "97%"
-                }
-            ],
-            "Metascore": "N/A",
-            "imdbRating": "8.4",
-            "imdbVotes": "30,864",
-            "imdbID": "tt0048473",
-            "Type": "movie",
-            "DVD": "17 Nov 2015",
-            "BoxOffice": "$134,241",
-            "Production": "N/A",
-            "Website": "N/A",
-            "Response": "True"
-        },
+        
         {
             "Title": "How to Train Your Dragon",
             "Year": "2010",
@@ -7956,46 +7494,7 @@
             "Website": "N/A",
             "Response": "True"
         },
-        {
-            "Title": "The Big Lebowski",
-            "Year": "1998",
-            "Rated": "R",
-            "Released": "06 Mar 1998",
-            "Runtime": "117 min",
-            "Genre": "Comedy, Crime",
-            "Director": "Joel Coen, Ethan Coen",
-            "Writer": "Ethan Coen, Joel Coen",
-            "Actors": "Jeff Bridges, John Goodman, Julianne Moore",
-            "Plot": "Ultimate L.A. slacker Jeff \"The Dude\" Lebowski, mistaken for a millionaire of the same name, seeks restitution for a rug ruined by debt collectors, enlisting his bowling buddies for help while trying to find the millionaire's missing",
-            "Language": "English, German, Hebrew, Spanish",
-            "Country": "United States, United Kingdom",
-            "Awards": "5 wins & 18 nominations",
-            "Poster": "https://m.media-amazon.com/images/M/MV5BMTQ0NjUzMDMyOF5BMl5BanBnXkFtZTgwODA1OTU0MDE@._V1_SX300.jpg",
-            "Ratings": [
-                {
-                    "Source": "Internet Movie Database",
-                    "Value": "8.1/10"
-                },
-                {
-                    "Source": "Rotten Tomatoes",
-                    "Value": "83%"
-                },
-                {
-                    "Source": "Metacritic",
-                    "Value": "71/100"
-                }
-            ],
-            "Metascore": "71",
-            "imdbRating": "8.1",
-            "imdbVotes": "785,040",
-            "imdbID": "tt0118715",
-            "Type": "movie",
-            "DVD": "18 Oct 2005",
-            "BoxOffice": "$18,254,458",
-            "Production": "N/A",
-            "Website": "N/A",
-            "Response": "True"
-        },
+        
         {
             "Title": "Wild Tales",
             "Year": "2014",
@@ -8864,42 +8363,7 @@
             "Website": "N/A",
             "Response": "True"
         },
-        {
-            "Title": "Hachi: A Dog's Tale",
-            "Year": "2009",
-            "Rated": "G",
-            "Released": "12 Mar 2010",
-            "Runtime": "93 min",
-            "Genre": "Biography, Drama, Family",
-            "Director": "Lasse Hallström",
-            "Writer": "Stephen P. Lindsey, Kaneto Shindô",
-            "Actors": "Richard Gere, Joan Allen, Cary-Hiroyuki Tagawa",
-            "Plot": "A college professor bonds with an abandoned dog he takes into his home.",
-            "Language": "English, Japanese",
-            "Country": "United Kingdom, United States",
-            "Awards": "1 nomination",
-            "Poster": "https://m.media-amazon.com/images/M/MV5BNzE4NDg5OWMtMzg3NC00ZDRjLTllMDMtZTRjNWZmNjBmMGZlXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_SX300.jpg",
-            "Ratings": [
-                {
-                    "Source": "Internet Movie Database",
-                    "Value": "8.1/10"
-                },
-                {
-                    "Source": "Rotten Tomatoes",
-                    "Value": "64%"
-                }
-            ],
-            "Metascore": "N/A",
-            "imdbRating": "8.1",
-            "imdbVotes": "275,172",
-            "imdbID": "tt1028532",
-            "Type": "movie",
-            "DVD": "09 Mar 2010",
-            "BoxOffice": "N/A",
-            "Production": "N/A",
-            "Website": "N/A",
-            "Response": "True"
-        },
+        
         {
             "Title": "The Incredibles",
             "Year": "2004",
@@ -9364,46 +8828,7 @@
             "Website": "N/A",
             "Response": "True"
         },
-        {
-            "Title": "The Sound of Music",
-            "Year": "1965",
-            "Rated": "G",
-            "Released": "01 Apr 1965",
-            "Runtime": "172 min",
-            "Genre": "Biography, Drama, Family",
-            "Director": "Robert Wise",
-            "Writer": "George Hurdalek, Howard Lindsay, Russel Crouse",
-            "Actors": "Julie Andrews, Christopher Plummer, Eleanor Parker",
-            "Plot": "A young novitiate is sent by her convent in 1930s Austria to become a governess to the seven children of a widowed naval officer.",
-            "Language": "English, German",
-            "Country": "United States",
-            "Awards": "Won 5 Oscars. 17 wins & 13 nominations total",
-            "Poster": "https://m.media-amazon.com/images/M/MV5BM2Q3YWMzMWItMjY4NS00ZjQ4LWEwYzQtODMwMjU1ZDg4ZjA4XkEyXkFqcGdeQXVyMDI2NDg0NQ@@._V1_SX300.jpg",
-            "Ratings": [
-                {
-                    "Source": "Internet Movie Database",
-                    "Value": "8.0/10"
-                },
-                {
-                    "Source": "Rotten Tomatoes",
-                    "Value": "83%"
-                },
-                {
-                    "Source": "Metacritic",
-                    "Value": "63/100"
-                }
-            ],
-            "Metascore": "63",
-            "imdbRating": "8.0",
-            "imdbVotes": "223,312",
-            "imdbID": "tt0059742",
-            "Type": "movie",
-            "DVD": "27 Aug 2002",
-            "BoxOffice": "$159,287,539",
-            "Production": "N/A",
-            "Website": "N/A",
-            "Response": "True"
-        },
+       
         {
             "Title": "Life of Brian",
             "Year": "1979",
@@ -9480,46 +8905,7 @@
             "Website": "N/A",
             "Response": "True"
         },
-        {
-            "Title": "Persona",
-            "Year": "1966",
-            "Rated": "Not Rated",
-            "Released": "16 Mar 1967",
-            "Runtime": "83 min",
-            "Genre": "Drama, Thriller",
-            "Director": "Ingmar Bergman",
-            "Writer": "Ingmar Bergman",
-            "Actors": "Bibi Andersson, Liv Ullmann, Margaretha Krook",
-            "Plot": "A nurse is put in charge of a mute actress and finds that their personae are melding together.",
-            "Language": "Swedish, English",
-            "Country": "Sweden",
-            "Awards": "Nominated for 1 BAFTA Film Award11 wins & 5 nominations total",
-            "Poster": "https://m.media-amazon.com/images/M/MV5BNjdhMGYyNTYtNTg5OC00MzY0LWE4YjctZWI3NDRkMzIyODBiXkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_SX300.jpg",
-            "Ratings": [
-                {
-                    "Source": "Internet Movie Database",
-                    "Value": "8.1/10"
-                },
-                {
-                    "Source": "Rotten Tomatoes",
-                    "Value": "91%"
-                },
-                {
-                    "Source": "Metacritic",
-                    "Value": "86/100"
-                }
-            ],
-            "Metascore": "86",
-            "imdbRating": "8.1",
-            "imdbVotes": "114,751",
-            "imdbID": "tt0060827",
-            "Type": "movie",
-            "DVD": "10 Feb 2004",
-            "BoxOffice": "N/A",
-            "Production": "N/A",
-            "Website": "N/A",
-            "Response": "True"
-        },
+        
         {
             "Title": "It Happened One Night",
             "Year": "1934",
@@ -9560,82 +8946,8 @@
             "Website": "N/A",
             "Response": "True"
         },
-        {
-            "Title": "La Haine",
-            "Year": "1995",
-            "Rated": "Not Rated",
-            "Released": "23 Feb 1996",
-            "Runtime": "98 min",
-            "Genre": "Crime, Drama",
-            "Director": "Mathieu Kassovitz",
-            "Writer": "Mathieu Kassovitz",
-            "Actors": "Vincent Cassel, Hubert Koundé, Saïd Taghmaoui",
-            "Plot": "24 hours in the lives of three young men in the French suburbs the day after a violent riot.",
-            "Language": "French",
-            "Country": "France, United States",
-            "Awards": "8 wins & 15 nominations",
-            "Poster": "https://m.media-amazon.com/images/M/MV5BNDNiOTA5YjktY2Q0Ni00ODgzLWE5MWItNGExOWRlYjY2MjBlXkEyXkFqcGdeQXVyNjQ2MjQ5NzM@._V1_SX300.jpg",
-            "Ratings": [
-                {
-                    "Source": "Internet Movie Database",
-                    "Value": "8.1/10"
-                },
-                {
-                    "Source": "Rotten Tomatoes",
-                    "Value": "100%"
-                }
-            ],
-            "Metascore": "N/A",
-            "imdbRating": "8.1",
-            "imdbVotes": "166,656",
-            "imdbID": "tt0113247",
-            "Type": "movie",
-            "DVD": "17 Apr 2007",
-            "BoxOffice": "$280,859",
-            "Production": "N/A",
-            "Website": "N/A",
-            "Response": "True"
-        },
-        {
-            "Title": "Aladdin",
-            "Year": "1992",
-            "Rated": "G",
-            "Released": "25 Nov 1992",
-            "Runtime": "90 min",
-            "Genre": "Animation, Adventure, Comedy",
-            "Director": "Ron Clements, John Musker",
-            "Writer": "Ron Clements, John Musker, Ted Elliott",
-            "Actors": "Scott Weinger, Robin Williams, Linda Larkin",
-            "Plot": "A kindhearted street urchin and a power-hungry Grand Vizier vie for a magic lamp that has the power to make their deepest wishes come true.",
-            "Language": "English",
-            "Country": "United States",
-            "Awards": "Won 2 Oscars. 32 wins & 22 nominations total",
-            "Poster": "https://m.media-amazon.com/images/M/MV5BY2Q2NDI1MjUtM2Q5ZS00MTFlLWJiYWEtNTZmNjQ3OGJkZDgxXkEyXkFqcGdeQXVyNTI4MjkwNjA@._V1_SX300.jpg",
-            "Ratings": [
-                {
-                    "Source": "Internet Movie Database",
-                    "Value": "8.1/10"
-                },
-                {
-                    "Source": "Rotten Tomatoes",
-                    "Value": "95%"
-                },
-                {
-                    "Source": "Metacritic",
-                    "Value": "86/100"
-                }
-            ],
-            "Metascore": "86",
-            "imdbRating": "8.1",
-            "imdbVotes": "398,646",
-            "imdbID": "tt0103639",
-            "Type": "movie",
-            "DVD": "13 Oct 2015",
-            "BoxOffice": "$217,350,219",
-            "Production": "N/A",
-            "Website": "N/A",
-            "Response": "True"
-        },
+        
+       
         {
             "Title": "Dune",
             "Year": "2021",
